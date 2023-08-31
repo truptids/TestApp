@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\TestApplication\\bin\\Debug",
+    "\\TestApplication\\bin\\Debug\\net5.0",
+    "\\TestApplication\\Model",
+    "\\TestApplication\\obj",
+    "\\TestApplication\\obj\\Debug",
+    "\\TestApplication\\obj\\Debug\\net5.0",
+    "\\TestApplication\\obj\\Debug\\net6.0"
+  ],
+  "SelectedNode": "\\TestApplication.sln",
+  "PreviewInSolutionExplorer": false
+}

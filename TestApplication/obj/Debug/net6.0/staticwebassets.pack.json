@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\EPT.png",
+      "PackagePath": "staticwebassets\\images\\EPT.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\HPCPE.png",
+      "PackagePath": "staticwebassets\\images\\HPCPE.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\apiVsVolume.png",
+      "PackagePath": "staticwebassets\\images\\apiVsVolume.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\brandLadder.png",
+      "PackagePath": "staticwebassets\\images\\brandLadder.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\macroEcon.png",
+      "PackagePath": "staticwebassets\\images\\macroEcon.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\packEcon.png",
+      "PackagePath": "staticwebassets\\images\\packEcon.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\priceLadder.png",
+      "PackagePath": "staticwebassets\\images\\priceLadder.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\priceRangePiano.png",
+      "PackagePath": "staticwebassets\\images\\priceRangePiano.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\priceSettingTool.png",
+      "PackagePath": "staticwebassets\\images\\priceSettingTool.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\pricingPotential.png",
+      "PackagePath": "staticwebassets\\images\\pricingPotential.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\profitParabola.png",
+      "PackagePath": "staticwebassets\\images\\profitParabola.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\revenueMap.png",
+      "PackagePath": "staticwebassets\\images\\revenueMap.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\salesAtEveryPricePoint.png",
+      "PackagePath": "staticwebassets\\images\\salesAtEveryPricePoint.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\superMarket.png",
+      "PackagePath": "staticwebassets\\images\\superMarket.png"
+    },
+    {
+      "Id": "E:\\TestApplicationNew\\TestApplication\\wwwroot\\images\\thumbnail1.png",
+      "PackagePath": "staticwebassets\\images\\thumbnail1.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TestApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TestApplication.props",
+      "PackagePath": "build\\TestApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TestApplication.props",
+      "PackagePath": "buildMultiTargeting\\TestApplication.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TestApplication.props",
+      "PackagePath": "buildTransitive\\TestApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
